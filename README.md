@@ -79,4 +79,5 @@ python3 log_parser.py
 
 This is how the log alert output looks when the script is executed:
 
-![Log Monitoring Output](./log-monitor-output.png)
+![Log Monitoring Output](<img width="1917" height="853" alt="log-monitor-output" src="https://github.com/user-attachments/assets/4e511756-631a-4dcc-82f0-bfaf679c8da9" />
+)
